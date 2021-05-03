@@ -1,0 +1,2 @@
+ipca/example/coudelaria/BuildConfig.java
+ ipca.example.coudelaria.BuildConfig

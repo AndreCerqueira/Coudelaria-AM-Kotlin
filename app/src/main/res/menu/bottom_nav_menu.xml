@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_cavalos"
+        android:icon="@drawable/horse"
+        android:title="@string/cavalos" />
+
+    <item
+        android:id="@+id/navigation_coudelarias"
+        android:icon="@drawable/coudelaria"
+        android:title="@string/Coudelarias" />
+
+    <item
+        android:id="@+id/navigation_criadores"
+        android:icon="@drawable/criador"
+        android:title="@string/Criadores" />
+
+    <item
+        android:id="@+id/navigation_provas"
+        android:icon="@drawable/porva"
+        android:title="@string/Prova" />
+
+</menu>

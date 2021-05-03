@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_cavalos">
+
+    <fragment
+        android:id="@+id/navigation_cavalos"
+        android:name="ipca.example.coudelaria.ui.CavalosFragment"
+        android:label="@string/cavalos"
+        tools:layout="@layout/fragment_cavalos" />
+
+    <fragment
+        android:id="@+id/navigation_coudelarias"
+        android:name="ipca.example.coudelaria.ui.CoudelariaFragment"
+        android:label="@string/Coudelarias"
+        tools:layout="@layout/fragment_coudelaria" />
+
+    <fragment
+        android:id="@+id/navigation_criadores"
+        android:name="ipca.example.coudelaria.ui.CriadoresFragment"
+        android:label="@string/Criadores"
+        tools:layout="@layout/fragment_coudelaria" />
+
+    <fragment
+        android:id="@+id/navigation_provas"
+        android:name="ipca.example.coudelaria.ui.ProvasFragment"
+        android:label="@string/Criadores"
+        tools:layout="@layout/fragment_coudelaria" />
+
+</navigation>
