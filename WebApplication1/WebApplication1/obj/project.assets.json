@@ -1352,11 +1352,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+      "projectUniqueName": "C:\\AndroidStudioProjects\\Coudelaria\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
       "projectName": "WebApplication1",
-      "projectPath": "C:\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+      "projectPath": "C:\\AndroidStudioProjects\\Coudelaria\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
       "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-      "outputPath": "C:\\WebApplication1\\WebApplication1\\obj\\",
+      "outputPath": "C:\\AndroidStudioProjects\\Coudelaria\\WebApplication1\\WebApplication1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config",

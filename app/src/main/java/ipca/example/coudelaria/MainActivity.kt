@@ -11,7 +11,7 @@ import androidx.navigation.ui.setupWithNavController
 class MainActivity : AppCompatActivity() {
 
     companion object {
-        val IP: String = "192.168.1.7"
+        val IP: String = "192.168.1.11"
     }
 
     override fun onCreate(savedInstanceState: Bundle?) {

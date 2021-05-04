@@ -48,8 +48,16 @@
         "source": "C:\\AndroidStudioProjects\\Coudelaria\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
     },
     {
+        "merged": "C:\\AndroidStudioProjects\\Coudelaria\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_user.xml.flat",
+        "source": "C:\\AndroidStudioProjects\\Coudelaria\\app\\src\\main\\res\\layout\\row_user.xml"
+    },
+    {
         "merged": "C:\\AndroidStudioProjects\\Coudelaria\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
         "source": "C:\\AndroidStudioProjects\\Coudelaria\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\Coudelaria\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_user.xml.flat",
+        "source": "C:\\AndroidStudioProjects\\Coudelaria\\app\\src\\main\\res\\layout\\fragment_user.xml"
     },
     {
         "merged": "C:\\AndroidStudioProjects\\Coudelaria\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_notifications_black_24dp.xml.flat",
@@ -164,6 +172,10 @@
         "source": "C:\\AndroidStudioProjects\\Coudelaria\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_home_black_24dp.png"
     },
     {
+        "merged": "C:\\AndroidStudioProjects\\Coudelaria\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_classific.xml.flat",
+        "source": "C:\\AndroidStudioProjects\\Coudelaria\\app\\src\\main\\res\\layout\\fragment_classific.xml"
+    },
+    {
         "merged": "C:\\AndroidStudioProjects\\Coudelaria\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
         "source": "C:\\AndroidStudioProjects\\Coudelaria\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
     },
@@ -230,5 +242,9 @@
     {
         "merged": "C:\\AndroidStudioProjects\\Coudelaria\\app\\build\\intermediates\\res\\merged\\debug\\drawable_horse.png.flat",
         "source": "C:\\AndroidStudioProjects\\Coudelaria\\app\\src\\main\\res\\drawable\\horse.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\Coudelaria\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_classific.xml.flat",
+        "source": "C:\\AndroidStudioProjects\\Coudelaria\\app\\src\\main\\res\\layout\\row_classific.xml"
     }
 ]

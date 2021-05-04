@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CUA38nc7cCXewTIfkNzBpEEI2Z3Uhm364aEHrBkjbSC+ZL5bK6RQxR/R5ltyb56uqVCdMJUYNpVE4e4s1GRy6A==",
+  "dgSpecHash": "cikaPQR8ZqSnH/LrbiFpeMfBZHPiBlFkm78UlHapQabPTXgBpqme8z3WCPEor9kJKaGGRAonbCPhMS9DleiE/g==",
   "success": true,
-  "projectFilePath": "C:\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+  "projectFilePath": "C:\\AndroidStudioProjects\\Coudelaria\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\andre\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\andre\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
