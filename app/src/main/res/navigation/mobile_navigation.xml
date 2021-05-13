@@ -7,9 +7,32 @@
 
     <fragment
         android:id="@+id/navigation_cavalos"
-        android:name="ipca.example.coudelaria.ui.CavalosFragment"
+        android:name="ipca.example.coudelaria.ui.CavalosUi.CavalosFragment"
         android:label="@string/cavalos"
-        tools:layout="@layout/fragment_cavalos" />
+        tools:layout="@layout/fragment_cavalos" >
+        <action
+            android:id="@+id/action_navigation_cavalos_to_navigation_add_cavalo"
+            app:destination="@id/navigation_add_cavalo" />
+        <action
+            android:id="@+id/action_navigation_cavalos_to_navigation_edit_cavalo"
+            app:destination="@id/navigation_edit_cavalo" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/navigation_add_cavalo"
+        android:name="ipca.example.coudelaria.ui.CavalosUi.AddCavaloFragment"
+        android:label="@string/AdicionarCavalo"
+        tools:layout="@layout/fragment_add_cavalo" />
+
+    <fragment
+        android:id="@+id/navigation_edit_cavalo"
+        android:name="ipca.example.coudelaria.ui.CavalosUi.EditCavaloFragment"
+        android:label="@string/EditarCavalo"
+        tools:layout="@layout/fragment_edit_cavalo" >
+        <argument
+            android:name="cavalo"
+            app:argType="string" />
+    </fragment>
 
     <fragment
         android:id="@+id/navigation_coudelarias"

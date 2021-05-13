@@ -8,28 +8,28 @@
         "source": "C:\\AndroidStudioProjects\\Coudelaria\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_notifications_black_24dp.png"
     },
     {
-        "merged": "C:\\AndroidStudioProjects\\Coudelaria\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_cavalo.xml.flat",
-        "source": "C:\\AndroidStudioProjects\\Coudelaria\\app\\src\\main\\res\\layout\\row_cavalo.xml"
-    },
-    {
         "merged": "C:\\AndroidStudioProjects\\Coudelaria\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_provas.xml.flat",
         "source": "C:\\AndroidStudioProjects\\Coudelaria\\app\\src\\main\\res\\layout\\fragment_provas.xml"
     },
     {
-        "merged": "C:\\AndroidStudioProjects\\Coudelaria\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
-        "source": "C:\\AndroidStudioProjects\\Coudelaria\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+        "merged": "C:\\AndroidStudioProjects\\Coudelaria\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_cavalo.xml.flat",
+        "source": "C:\\AndroidStudioProjects\\Coudelaria\\app\\src\\main\\res\\layout\\row_cavalo.xml"
     },
     {
         "merged": "C:\\AndroidStudioProjects\\Coudelaria\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
         "source": "C:\\AndroidStudioProjects\\Coudelaria\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "C:\\AndroidStudioProjects\\Coudelaria\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_dashboard_black_24dp.png.flat",
-        "source": "C:\\AndroidStudioProjects\\Coudelaria\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_dashboard_black_24dp.png"
+        "merged": "C:\\AndroidStudioProjects\\Coudelaria\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\AndroidStudioProjects\\Coudelaria\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
     },
     {
         "merged": "C:\\AndroidStudioProjects\\Coudelaria\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
         "source": "C:\\AndroidStudioProjects\\Coudelaria\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\Coudelaria\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_dashboard_black_24dp.png.flat",
+        "source": "C:\\AndroidStudioProjects\\Coudelaria\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_dashboard_black_24dp.png"
     },
     {
         "merged": "C:\\AndroidStudioProjects\\Coudelaria\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_criadores.xml.flat",
@@ -38,6 +38,10 @@
     {
         "merged": "C:\\AndroidStudioProjects\\Coudelaria\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
         "source": "C:\\AndroidStudioProjects\\Coudelaria\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\Coudelaria\\app\\build\\intermediates\\res\\merged\\debug\\drawable_add.png.flat",
+        "source": "C:\\AndroidStudioProjects\\Coudelaria\\app\\src\\main\\res\\drawable\\add.png"
     },
     {
         "merged": "C:\\AndroidStudioProjects\\Coudelaria\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_notifications_black_24dp.png.flat",
@@ -56,8 +60,16 @@
         "source": "C:\\AndroidStudioProjects\\Coudelaria\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
     },
     {
+        "merged": "C:\\AndroidStudioProjects\\Coudelaria\\app\\build\\intermediates\\res\\merged\\debug\\drawable_remove.png.flat",
+        "source": "C:\\AndroidStudioProjects\\Coudelaria\\app\\src\\main\\res\\drawable\\remove.png"
+    },
+    {
         "merged": "C:\\AndroidStudioProjects\\Coudelaria\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_user.xml.flat",
         "source": "C:\\AndroidStudioProjects\\Coudelaria\\app\\src\\main\\res\\layout\\fragment_user.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\Coudelaria\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_edit_cavalo.xml.flat",
+        "source": "C:\\AndroidStudioProjects\\Coudelaria\\app\\src\\main\\res\\layout\\fragment_edit_cavalo.xml"
     },
     {
         "merged": "C:\\AndroidStudioProjects\\Coudelaria\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_notifications_black_24dp.xml.flat",
@@ -66,6 +78,10 @@
     {
         "merged": "C:\\AndroidStudioProjects\\Coudelaria\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_dashboard_black_24dp.png.flat",
         "source": "C:\\AndroidStudioProjects\\Coudelaria\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_dashboard_black_24dp.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\Coudelaria\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_edit_cavalo.xml.flat",
+        "source": "C:\\AndroidStudioProjects\\Coudelaria\\app\\src\\main\\res\\menu\\menu_edit_cavalo.xml"
     },
     {
         "merged": "C:\\AndroidStudioProjects\\Coudelaria\\app\\build\\intermediates\\res\\merged\\debug\\drawable_user.png.flat",
@@ -168,12 +184,12 @@
         "source": "C:\\AndroidStudioProjects\\Coudelaria\\app\\src\\main\\res\\navigation\\mobile_navigation.xml"
     },
     {
-        "merged": "C:\\AndroidStudioProjects\\Coudelaria\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_home_black_24dp.png.flat",
-        "source": "C:\\AndroidStudioProjects\\Coudelaria\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_home_black_24dp.png"
-    },
-    {
         "merged": "C:\\AndroidStudioProjects\\Coudelaria\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_classific.xml.flat",
         "source": "C:\\AndroidStudioProjects\\Coudelaria\\app\\src\\main\\res\\layout\\fragment_classific.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\Coudelaria\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_home_black_24dp.png.flat",
+        "source": "C:\\AndroidStudioProjects\\Coudelaria\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_home_black_24dp.png"
     },
     {
         "merged": "C:\\AndroidStudioProjects\\Coudelaria\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
@@ -188,6 +204,10 @@
         "source": "C:\\AndroidStudioProjects\\Coudelaria\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_dashboard_black_24dp.png"
     },
     {
+        "merged": "C:\\AndroidStudioProjects\\Coudelaria\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_add_cavalo.xml.flat",
+        "source": "C:\\AndroidStudioProjects\\Coudelaria\\app\\src\\main\\res\\layout\\fragment_add_cavalo.xml"
+    },
+    {
         "merged": "C:\\AndroidStudioProjects\\Coudelaria\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_home_black_24dp.png.flat",
         "source": "C:\\AndroidStudioProjects\\Coudelaria\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_home_black_24dp.png"
     },
@@ -198,6 +218,10 @@
     {
         "merged": "C:\\AndroidStudioProjects\\Coudelaria\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
         "source": "C:\\AndroidStudioProjects\\Coudelaria\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\Coudelaria\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_cavalos.xml.flat",
+        "source": "C:\\AndroidStudioProjects\\Coudelaria\\app\\src\\main\\res\\menu\\menu_cavalos.xml"
     },
     {
         "merged": "C:\\AndroidStudioProjects\\Coudelaria\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",

@@ -1669,6 +1669,7 @@ drawable abc_textfield_search_activated_mtrl_alpha
 drawable abc_textfield_search_default_mtrl_alpha
 drawable abc_textfield_search_material
 drawable abc_vector_test
+drawable add
 drawable avd_hide_password
 drawable avd_show_password
 drawable btn_checkbox_checked_mtrl
@@ -1732,6 +1733,7 @@ drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
 drawable porva
+drawable remove
 drawable test_custom_background
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
@@ -1744,6 +1746,8 @@ id CTRL
 id FUNCTION
 id META
 id NO_DEBUG
+id RadioBtFemale
+id RadioGroupGender
 id SHIFT
 id SHOW_ALL
 id SHOW_PATH
@@ -1802,6 +1806,8 @@ id action_menu_presenter
 id action_mode_bar
 id action_mode_bar_stub
 id action_mode_close_button
+id action_navigation_cavalos_to_navigation_add_cavalo
+id action_navigation_cavalos_to_navigation_edit_cavalo
 id action_text
 id actions
 id activity_chooser_view_content
@@ -1826,6 +1832,8 @@ id blocking
 id bottom
 id bounce
 id buttonPanel
+id buttonSave
+id buttonSaveChanges
 id cache_measures
 id cancel_action
 id cancel_button
@@ -1888,6 +1896,12 @@ id dropdown_menu
 id easeIn
 id easeInOut
 id easeOut
+id editTextBirthDate
+id editTextCodCoudelariaNasc
+id editTextCodCoudelariaResid
+id editTextMae
+id editTextName
+id editTextPai
 id edit_query
 id elastic
 id end
@@ -1909,6 +1923,7 @@ id flip
 id floating
 id forever
 id fragment_container_view_tag
+id frameLayout
 id ghost_view
 id ghost_view_holder
 id gone
@@ -1933,6 +1948,8 @@ id info
 id invisible
 id inward
 id italic
+id itemAdd
+id itemRemove
 id item_touch_helper_previous_elevation
 id jumpToEnd
 id jumpToStart
@@ -2013,10 +2030,12 @@ id nav_controller_view_tag
 id nav_host_fragment
 id nav_host_fragment_container
 id nav_view
+id navigation_add_cavalo
 id navigation_cavalos
 id navigation_classific
 id navigation_coudelarias
 id navigation_criadores
+id navigation_edit_cavalo
 id navigation_header_container
 id navigation_provas
 id navigation_users
@@ -2048,6 +2067,7 @@ id postLayout
 id progress_circular
 id progress_horizontal
 id radio
+id radioBtMasculine
 id ratio
 id rectangles
 id reverseSawtooth
@@ -2133,6 +2153,8 @@ id textSpacerNoButtons
 id textSpacerNoTitle
 id textStart
 id textTop
+id textView
+id textViewCavaloId
 id textViewClassific
 id textViewClassificCodCavalo
 id textViewClassificCodProva
@@ -2142,6 +2164,7 @@ id textViewCodCriador
 id textViewCodProva
 id textViewDataInicio
 id textViewDataProva
+id textViewGenero
 id textViewNomeCavalo
 id textViewNomeCoudelaria
 id textViewNomeCriador
@@ -2265,10 +2288,12 @@ layout design_navigation_menu
 layout design_navigation_menu_item
 layout design_text_input_end_icon
 layout design_text_input_start_icon
+layout fragment_add_cavalo
 layout fragment_cavalos
 layout fragment_classific
 layout fragment_coudelaria
 layout fragment_criadores
+layout fragment_edit_cavalo
 layout fragment_provas
 layout fragment_user
 layout material_chip_input_combo
@@ -2353,13 +2378,17 @@ layout text_view_with_line_height_from_style
 layout text_view_with_theme_line_height
 layout text_view_without_line_height
 menu bottom_nav_menu
+menu menu_cavalos
+menu menu_edit_cavalo
 mipmap ic_launcher
 mipmap ic_launcher_round
 navigation mobile_navigation
 plurals mtrl_badge_content_description
+string AdicionarCavalo
 string Classific
 string Coudelarias
 string Criadores
+string EditarCavalo
 string Provas
 string Users
 string abc_action_bar_home_description

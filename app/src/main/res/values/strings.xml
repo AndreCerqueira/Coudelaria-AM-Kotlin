@@ -11,4 +11,6 @@
     <string name="Provas" translatable="false"> Provas </string>
     <string name="Classific" translatable="false"> Classificação </string>
     <string name="Users" translatable="false"> Users </string>
+    <string name="AdicionarCavalo">Adicionar Cavalo</string>
+    <string name="EditarCavalo">Editar Cavalo</string>
 </resources>

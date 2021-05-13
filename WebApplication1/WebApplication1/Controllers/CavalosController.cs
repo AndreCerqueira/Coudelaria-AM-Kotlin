@@ -41,7 +41,6 @@ namespace WebApplication1.Controllers
             Random rd = new Random();
             var randomId = rd.Next(100, 200);
             var ocupado = true;
-
             using (var db = new DbHelper())
             {
                 do
@@ -64,14 +63,13 @@ namespace WebApplication1.Controllers
             }
         }
 
-        // PUT api/<CavalosController>/5
-        [HttpPut("{id}")]
-        public void Put(int id, [FromBody] Cavalo cavalo)
+        // PUT api/<CavalosController>/5 [HttpPut("{id}")]
+        [HttpPut]
+        public void Put([FromBody] Cavalo cavalo)
         {
             using (var db = new DbHelper())
             {
-                var cavaloUpdate = db.cavalos.Find(id);
-
+                var cavaloUpdate = db.cavalos.Find(cavalo.cod_cavalo);
                 if(cavaloUpdate != null)
                 {
                     if (cavalo.nome_cavalo != null) cavaloUpdate.nome_cavalo = cavalo.nome_cavalo;
@@ -87,18 +85,17 @@ namespace WebApplication1.Controllers
                 {
                     db.cavalos.Add(cavalo);
                 }
-
                 db.SaveChanges();
             }
         }
 
-        // DELETE api/<CavalosController>/5
-        [HttpDelete("{id}")]
-        public void Delete(int id)
+        // DELETE api/<CavalosController>/5  [HttpDelete("{id}")]  int id
+        [HttpDelete]
+        public void Delete([FromBody] Cavalo cavaloReceived)
         {
             using (var db = new DbHelper())
             {
-                var cavalo = db.cavalos.Find(id);
+                var cavalo = db.cavalos.Find(cavaloReceived.cod_cavalo);
 
                 if(cavalo != null)
                     db.cavalos.Remove(cavalo);
